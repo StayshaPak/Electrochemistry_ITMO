@@ -1,2 +1,18 @@
 # Electrochemistry_ITMO
-Здесь будут содержаться части кода Google_Colab для анализа данных вольтамперограмм, построения зависимостей и калибровочных уравнений.
+
+## About
+
+About Text Here
+
+## Documentation
+
+Documentation Here
+
+## Distribute
+
+- [Service Name](Page Link)
+
+
+## Developers
+
+- [Delevoper Name](GitHub Profile Link)
