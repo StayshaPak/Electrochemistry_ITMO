@@ -8,11 +8,6 @@ About Text Here
 
 Documentation Here
 
-## Distribute
-
-- [Service Name](Page Link)
-
-
 ## Developers
 
 - [StayshaPak](https://github.com/StayshaPak)
