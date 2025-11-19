@@ -15,4 +15,4 @@ Documentation Here
 
 ## Developers
 
-- [Delevoper Name](GitHub Profile Link)
+- [StayshaPak](https://github.com/StayshaPak)
